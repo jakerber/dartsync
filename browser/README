@@ -1,0 +1,22 @@
+DART SYNC FILE BROWSER
+
+Compiling:
+	- run make in 'browser' directory
+
+Running:
+	- Enter the directory you want to view
+		i.e. "cd testdir"
+
+	- Start up the browser by running the executable 'browse' from outside of the browser directory
+		i.e. "../browser/browse . 9999"
+
+Arguments:
+	browse [directory] [port num]
+
+	1. [directory] = root directly to view
+	2. [port num] = port number for viewing
+
+	- user will be prompted with IP address and port when run
+
+		Visit IPAddress:Port to view
+
