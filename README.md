@@ -1,8 +1,10 @@
-DartSync
+# DartSync
 
-Team: Justin Lee, Tianqi Li, Josh Kerber, Charlie Li
+###### This is a decentralized file synchronization system inspired by Dropbox.
 
-This is a decentralized file synchronization system inspired by Dropbox.
+##### Team: Justin Lee, Tianqi Li, Josh Kerber, Charlie Li
+
+___
 
 To run:
 
@@ -21,6 +23,6 @@ will download to.
 At this point, any change (modification, deletion, addition) to the file system on one peer instance will sync to any other peer in the system.
 Step 4 can be repeated any number of times to add peers to the system.
 
-
+***
 
 **Credit to the CS60 instructors for creating the code used to guard data sent back and forth over the TCP stream
