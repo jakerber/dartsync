@@ -1,8 +1,8 @@
 # DartSync
 
-###### This is a decentralized file synchronization system inspired by Dropbox.
+##### This is a decentralized file synchronization system inspired by Dropbox.
 
-##### Team: Justin Lee, Tianqi Li, Josh Kerber, Charlie Li
+###### Team: Justin Lee, Tianqi Li, Josh Kerber, Charlie Li
 
 ___
 
